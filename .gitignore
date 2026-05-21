@@ -1,0 +1,4 @@
+*.exe
+*.out
+/subscriptions-api
+.env
